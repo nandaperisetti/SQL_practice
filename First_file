@@ -1,0 +1,4 @@
+CREATE TABLE (
+age INT,
+employee_name VARCHAR(100)
+);
